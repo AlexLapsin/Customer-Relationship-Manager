@@ -12,7 +12,7 @@ import com.crm.springdemo.entity.Customer;
 
 
 @Service
-public class CustomerServiceImpl implements CustumerService {
+public class CustomerServiceImpl implements CustomerService {
 
 	// need to inject customer DAO
 	@Autowired
