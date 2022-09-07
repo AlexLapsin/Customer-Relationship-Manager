@@ -17,7 +17,7 @@
 		http://www.springframework.org/schema/aop
 		http://www.springframework.org/schema/aop/spring-aop.xsd">
 
-	<!-- Add Aspect-autoproxy support for AOP -->
+	<!-- Add AspectJ-autoproxy support for AOP -->
 	<aop:aspectj-autoproxy/>
 	
 	<!-- Add support for component scanning -->
